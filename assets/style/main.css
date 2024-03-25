@@ -81,3 +81,12 @@ body {
     border-color: chocolate;
     transition: .5s;
 }
+.text
+{
+    width: 280px;
+    height: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 10px;
+}

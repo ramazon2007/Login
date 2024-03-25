@@ -1,6 +1,6 @@
-alert(`Assalomu Alaykum`)
-confirm(`Bizning saytimizga xush kelibsiz`)
-prompt(`Ismingizni kiriting`)
+// alert(`Assalomu Alaykum`)
+// confirm(`Bizning saytimizga xush kelibsiz`)
+// prompt(`Ismingizni kiriting`)
 
 
 
